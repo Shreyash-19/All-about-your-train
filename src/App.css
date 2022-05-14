@@ -1,0 +1,36 @@
+
+.Header{
+    text-align: center;
+
+  
+  width:100%;
+  justify-content:center;
+  position: absolute;
+  margin-top: 150px;
+ 
+  
+
+}
+.textdeco{
+    font-size: 50px;
+    font-family: cursive;
+
+
+
+}
+.box{
+    max-height: 20px;
+    min-width: 12%;
+    border:3px solid black;
+    padding: 3px;
+}
+.button{
+    background-color:rgb(74, 74, 207);
+color: white;
+padding: 6px 10px;
+font-size: 16px;
+}
+
+  
+
+
