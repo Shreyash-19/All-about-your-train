@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/All-about-your-train/static/css/main.b8477965.css",
+    "main.js": "/All-about-your-train/static/js/main.8479865d.js",
+    "index.html": "/All-about-your-train/index.html",
+    "main.b8477965.css.map": "/All-about-your-train/static/css/main.b8477965.css.map",
+    "main.8479865d.js.map": "/All-about-your-train/static/js/main.8479865d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8477965.css",
+    "static/js/main.8479865d.js"
+  ]
+}
